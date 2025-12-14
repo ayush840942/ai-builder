@@ -41,7 +41,10 @@ export function CreateProjectDialog({ children, defaultType }: CreateProjectDial
             navigate(`/editor/${response.data.data.id}`);
         },
         onError: (err: any) => {
-            setError(err.response?.data?.error || 'Failed to create project');
+            console.error('Create failed:', err);
+            const msg = err.response?.data?.error || err.message || 'Failed to create project';
+            const status = err.response?.status ? ` (${err.response.status})` : '';
+            setError(`${msg}${status}`);
         }
     });
 

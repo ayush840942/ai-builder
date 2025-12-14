@@ -26,7 +26,7 @@ const app: Express = express();
 const httpServer = createServer(app);
 const io = new Server(httpServer, {
     cors: {
-        origin: process.env.FRONTEND_URL || 'http://localhost:5173',
+        origin: true,
         credentials: true
     }
 });
@@ -49,7 +49,7 @@ const limiter = rateLimit({
 // Middleware
 app.use(helmet());
 app.use(cors({
-    origin: process.env.FRONTEND_URL || 'http://localhost:5173',
+    origin: true, // Allow all origins for Vercel deployment flexibility
     credentials: true
 }));
 app.use(express.json({ limit: '50mb' }));

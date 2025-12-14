@@ -470,3 +470,19 @@
 {"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-14T09:26:32.417Z"}
 {"level":"info","message":"📝 Environment: development","timestamp":"2025-12-14T09:26:32.417Z"}
 {"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-14T09:26:32.417Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-14T10:17:41.886Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-14T10:17:42.404Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-14T10:17:42.406Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-14T10:17:42.406Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-14T10:17:42.406Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-14T10:17:42.409Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-14T10:17:42.409Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-14T10:17:42.409Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-14T10:17:52.180Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-14T10:17:52.485Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-14T10:17:52.487Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-14T10:17:52.487Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-14T10:17:52.487Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-14T10:17:52.491Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-14T10:17:52.491Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-14T10:17:52.491Z"}

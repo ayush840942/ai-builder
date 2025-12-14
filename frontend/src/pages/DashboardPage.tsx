@@ -146,7 +146,7 @@ export default function DashboardPage() {
                         <div className="flex justify-center py-20">
                             <Loader2 className="h-10 w-10 animate-spin text-violet-500" />
                         </div>
-                    ) : !projects?.data.data.length ? (
+                    ) : (!projects?.data?.data || projects.data.data.length === 0) ? (
                         <div className="text-center py-20 rounded-3xl bg-white/5 border border-dashed border-white/10">
                             <div className="relative inline-block mb-6">
                                 <div className="absolute inset-0 bg-violet-600 rounded-2xl blur-xl opacity-30" />

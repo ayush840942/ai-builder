@@ -1,0 +1,472 @@
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T17:39:00.764Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T17:39:00.765Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T17:39:00.765Z"}
+{"level":"info","message":"Client connected: DVSgkuUYjfPJ-UIdAAAB","timestamp":"2025-12-13T17:39:04.470Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T17:39:33.902Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T17:39:33.903Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T17:39:33.903Z"}
+{"level":"info","message":"Client connected: smlkmnRS9vxJ-uymAAAB","timestamp":"2025-12-13T17:39:36.184Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T17:41:23.620Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T17:41:23.622Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T17:41:23.622Z"}
+{"level":"info","message":"Client connected: hor6sbiWRyGkOCDQAAAB","timestamp":"2025-12-13T17:41:25.219Z"}
+{"level":"info","message":"Client disconnected: hor6sbiWRyGkOCDQAAAB","timestamp":"2025-12-13T17:44:44.392Z"}
+{"level":"info","message":"Client connected: Pf-5e9W7NwTbthAgAAAD","timestamp":"2025-12-13T17:44:44.486Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:10 +0000] \"POST /api/auth/register HTTP/1.1\" 201 351 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:10.272Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:10 +0000] \"GET /api/projects HTTP/1.1\" 200 26 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:10.296Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:17 +0000] \"POST /api/projects HTTP/1.1\" 201 278 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:17.683Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:17 +0000] \"GET /api/projects HTTP/1.1\" 200 280 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:17.690Z"}
+{"level":"info","message":"Socket Pf-5e9W7NwTbthAgAAAD joined project proj_1765647917682_oc88hgabz","timestamp":"2025-12-13T17:45:17.696Z"}
+{"level":"info","message":"Socket Pf-5e9W7NwTbthAgAAAD joined project proj_1765647917682_oc88hgabz","timestamp":"2025-12-13T17:45:17.697Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:17 +0000] \"GET /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 278 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:17.708Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:30.434Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:30 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:30.435Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:30 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:30.443Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:38.449Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:38 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:38.449Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:38 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:38.457Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:39.094Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:39 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:39.095Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:39 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:39.103Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:39.412Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:39 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:39.413Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:39 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:39.421Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:39.624Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:39 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:39.624Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:39 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:39.630Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:39.877Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:39 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:39.877Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:39 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:39.888Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:41.528Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:41 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:41.528Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:41 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:41.534Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:42.059Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:42 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:42.060Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:42 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:42.069Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:42.358Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:42 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:42.359Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:42 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:42.364Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:42.540Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:42 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:42.540Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:42 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:42.546Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:42.806Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:42 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:42.806Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:42 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:42.812Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:43.059Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:43 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:43.060Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:43 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:43.067Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:43.291Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:43 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:43.292Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:43 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:43.297Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:45.928Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:45 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:45.929Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:45 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:45.939Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:46.475Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:46 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:46.475Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:46 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:46.480Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:46.724Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:46 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:46.724Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:46 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:46.730Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:47.007Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:47 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:47.007Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:47 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:47.013Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:48.346Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:48 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:48.347Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:48 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:48.355Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:48.574Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:48 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:48.575Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:48 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:48.580Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:48.855Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:48 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:48.856Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:48 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:48.862Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:49.089Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:49 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:49.089Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:49 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:49.095Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:49.274Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:49 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:49.275Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:49 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:49.281Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:49.491Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:49 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:49.491Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:49 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:49.497Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:49.909Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:49 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:49.909Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:49 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:49.917Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:50.192Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:50 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:50.193Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:50 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:50.198Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:50.491Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:50 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:50.492Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:50 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:50.497Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:51.526Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:51 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:51.526Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:51 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:51.532Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:52.577Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:52 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:52.578Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:52 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:52.585Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:53.044Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:53 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:53.044Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:53 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:53.052Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:53.340Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:53 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:53.341Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:53 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:53.346Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:54.175Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:54 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:54.176Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:54 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:54.183Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:54.543Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:54 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:54.544Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:54 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:54.551Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:54.841Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:54 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:54.842Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:54 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:54.847Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:55.125Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:55 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:55.125Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:55 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:55.132Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:55.359Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:55 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:55.359Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:55 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:55.364Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:45:56.011Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:56 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:56.011Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:45:56 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:45:56.018Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:46:00.898Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:00 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:00.899Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:00 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:00.908Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:46:01.713Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:01 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:01.714Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:01 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:01.723Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:46:01.992Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:01 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:01.993Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:02 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:02.001Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:46:02.190Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:02 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:02.191Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:02 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:02.196Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:46:02.457Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:02 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:02.457Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:02 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:02.463Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:46:02.942Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:02 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:02.943Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:02 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:02.950Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:46:03.207Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:03 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:03.208Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:03 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:03.214Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:46:03.473Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:03 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:03.474Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:03 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:03.480Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:46:03.723Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:03 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:03.723Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:03 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:03.729Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:46:03.941Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:03 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:03.942Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:03 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:03.947Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:46:04.476Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:04 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:04.476Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:04 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 200 1055 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:04.484Z"}
+{"level":"info","message":"Generating code with demo for framework: react","timestamp":"2025-12-13T17:46:04.742Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:04 +0000] \"POST /api/ai/generate HTTP/1.1\" 200 862 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:04.742Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:04 +0000] \"PUT /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 429 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:04.749Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:04 +0000] \"POST /api/ai/generate HTTP/1.1\" 429 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:04.991Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:05 +0000] \"POST /api/ai/generate HTTP/1.1\" 429 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:05.273Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:05 +0000] \"POST /api/ai/generate HTTP/1.1\" 429 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:05.486Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:46:06 +0000] \"POST /api/ai/generate HTTP/1.1\" 429 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:46:06.060Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T17:49:10.445Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T17:49:10.814Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T17:49:10.815Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T17:49:10.816Z"}
+{"level":"info","message":"Client connected: 2yf-NBVqCsLE6J7qAAAB","timestamp":"2025-12-13T17:49:16.702Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T17:49:55.680Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY not found - using demo mode","timestamp":"2025-12-13T17:49:55.975Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T17:49:55.983Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T17:49:55.984Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T17:49:55.984Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:49:58 +0000] \"GET /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 404 45 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:49:58.098Z"}
+{"level":"info","message":"::1 - - [13/Dec/2025:17:49:59 +0000] \"GET /api/projects/proj_1765647917682_oc88hgabz HTTP/1.1\" 404 45 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15\"","timestamp":"2025-12-13T17:49:59.120Z"}
+{"level":"info","message":"Client connected: p2pQ7WrtqkbEtkH4AAAB","timestamp":"2025-12-13T17:50:01.605Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY not found - using demo mode","timestamp":"2025-12-13T17:50:07.321Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T17:50:07.326Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T17:50:07.327Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T17:50:07.327Z"}
+{"level":"info","message":"Client connected: w7KyTpDj4fkxwkX8AAAB","timestamp":"2025-12-13T17:50:07.386Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T17:50:56.145Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY not found - using demo mode","timestamp":"2025-12-13T17:50:56.590Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T17:50:56.594Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T17:50:56.597Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T17:50:56.597Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T17:50:56.597Z"}
+{"level":"info","message":"Client connected: qagVM-Oixxx-y7MXAAAB","timestamp":"2025-12-13T17:51:01.819Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY not found - using demo mode","timestamp":"2025-12-13T17:51:05.882Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T17:51:05.886Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T17:51:05.889Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T17:51:05.889Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T17:51:05.889Z"}
+{"level":"info","message":"Client connected: R4c_ufrm7iW6xWzsAAAB","timestamp":"2025-12-13T17:51:08.174Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T17:52:27.666Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T17:52:28.014Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T17:52:28.018Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T17:52:28.018Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T17:52:28.019Z"}
+{"level":"info","message":"Client connected: R_rAGXAgAYzYycdXAAAB","timestamp":"2025-12-13T17:52:33.475Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T17:52:37.106Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T17:52:37.109Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T17:52:37.109Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T17:52:37.109Z"}
+{"level":"info","message":"Client connected: VLck6WDBt6-J7izKAAAB","timestamp":"2025-12-13T17:52:39.967Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T17:55:42.900Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T17:57:55.752Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T17:57:55.756Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T17:57:55.756Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T17:57:55.756Z"}
+{"level":"info","message":"Client connected: o4-Bzsy027xfbwSGAAAB","timestamp":"2025-12-13T17:58:00.069Z"}
+{"level":"info","message":"Generating component for: \"Create a stunning hero section with animated gradient background, headline, subtext, and CTA buttons...\"","timestamp":"2025-12-13T18:02:57.309Z"}
+{"level":"info","message":"✅ OpenAI client initialized","timestamp":"2025-12-13T18:02:57.310Z"}
+{"level":"info","message":"✅ Groq client initialized","timestamp":"2025-12-13T18:02:57.311Z"}
+{"level":"info","message":"Calling OpenAI GPT-4...","timestamp":"2025-12-13T18:02:57.311Z"}
+{"level":"error","message":"OpenAI error:","timestamp":"2025-12-13T18:02:59.751Z"}
+{"level":"info","message":"Falling back to Groq...","timestamp":"2025-12-13T18:02:59.752Z"}
+{"level":"info","message":"Calling Groq (fast inference)...","timestamp":"2025-12-13T18:02:59.752Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T18:03:36.026Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T18:03:36.458Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T18:03:36.462Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T18:03:36.462Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T18:03:36.462Z"}
+{"level":"info","message":"Client connected: hxUDyrdcW5Dj9cCMAAAB","timestamp":"2025-12-13T18:03:42.614Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T18:03:45.533Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T18:03:45.536Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T18:03:45.536Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T18:03:45.536Z"}
+{"level":"info","message":"Client connected: IfmUY_eHRj0H8Da9AAAB","timestamp":"2025-12-13T18:03:46.624Z"}
+{"level":"info","message":"Generating component for: \"Create a stunning hero section with animated gradient background, headline, subtext, and CTA buttons...\"","timestamp":"2025-12-13T18:04:35.936Z"}
+{"level":"info","message":"✅ OpenAI client initialized","timestamp":"2025-12-13T18:04:35.937Z"}
+{"level":"info","message":"✅ Groq client initialized","timestamp":"2025-12-13T18:04:35.937Z"}
+{"level":"info","message":"Calling OpenAI GPT-4...","timestamp":"2025-12-13T18:04:35.937Z"}
+{"level":"error","message":"OpenAI error:","timestamp":"2025-12-13T18:04:38.010Z"}
+{"level":"info","message":"Falling back to Groq...","timestamp":"2025-12-13T18:04:38.011Z"}
+{"level":"info","message":"Calling Groq (fast inference)...","timestamp":"2025-12-13T18:04:38.011Z"}
+{"level":"info","message":"Generated 2010 chars with Groq","timestamp":"2025-12-13T18:04:40.369Z"}
+{"level":"info","message":"Generating landing for: \"Create 3 pricing tier cards with features, popular badge, and hover effects...\"","timestamp":"2025-12-13T18:05:37.610Z"}
+{"level":"info","message":"Calling OpenAI GPT-4...","timestamp":"2025-12-13T18:05:37.610Z"}
+{"level":"error","message":"OpenAI error:","timestamp":"2025-12-13T18:05:39.261Z"}
+{"level":"info","message":"Falling back to Groq...","timestamp":"2025-12-13T18:05:39.262Z"}
+{"level":"info","message":"Calling Groq (fast inference)...","timestamp":"2025-12-13T18:05:39.262Z"}
+{"level":"info","message":"Generated 3593 chars with Groq","timestamp":"2025-12-13T18:05:41.607Z"}
+{"level":"info","message":"Client disconnected: IfmUY_eHRj0H8Da9AAAB","timestamp":"2025-12-13T18:09:36.605Z"}
+{"level":"info","message":"Client connected: BGjmcF-_GZKD3-y3AAAD","timestamp":"2025-12-13T18:09:38.219Z"}
+{"level":"info","message":"Client disconnected: BGjmcF-_GZKD3-y3AAAD","timestamp":"2025-12-13T18:10:23.218Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T18:10:47.024Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T18:10:47.657Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T18:10:47.661Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T18:10:47.661Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T18:10:47.661Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T18:10:57.454Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T18:10:57.458Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T18:10:57.458Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T18:10:57.458Z"}
+{"level":"info","message":"Generating landing: \"Pricing cards 3 tiers...\"","timestamp":"2025-12-13T18:21:24.964Z"}
+{"level":"info","message":"✅ OpenAI initialized","timestamp":"2025-12-13T18:21:24.967Z"}
+{"level":"info","message":"✅ Groq initialized","timestamp":"2025-12-13T18:21:24.968Z"}
+{"level":"info","message":"Calling OpenAI GPT-4...","timestamp":"2025-12-13T18:21:24.968Z"}
+{"level":"error","message":"OpenAI error:","timestamp":"2025-12-13T18:21:26.549Z"}
+{"level":"info","message":"Calling Groq...","timestamp":"2025-12-13T18:21:26.550Z"}
+{"level":"info","message":"Generating landing: \"modern design...\"","timestamp":"2025-12-13T18:22:01.317Z"}
+{"level":"info","message":"Calling OpenAI GPT-4...","timestamp":"2025-12-13T18:22:01.317Z"}
+{"level":"error","message":"OpenAI error:","timestamp":"2025-12-13T18:22:02.922Z"}
+{"level":"info","message":"Calling Groq...","timestamp":"2025-12-13T18:22:02.922Z"}
+{"level":"info","message":"Generating landing: \"fully functional and working...\"","timestamp":"2025-12-13T18:22:38.492Z"}
+{"level":"info","message":"Calling OpenAI GPT-4...","timestamp":"2025-12-13T18:22:38.492Z"}
+{"level":"error","message":"OpenAI error:","timestamp":"2025-12-13T18:22:39.147Z"}
+{"level":"info","message":"Calling Groq...","timestamp":"2025-12-13T18:22:39.147Z"}
+{"level":"info","message":"Generating component: \"an beautiful modern website for car...\"","timestamp":"2025-12-13T18:28:21.130Z"}
+{"level":"info","message":"Calling OpenAI GPT-4...","timestamp":"2025-12-13T18:28:21.131Z"}
+{"level":"error","message":"OpenAI error:","timestamp":"2025-12-13T18:28:22.515Z"}
+{"level":"info","message":"Calling Groq...","timestamp":"2025-12-13T18:28:22.515Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T18:31:08.938Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T18:31:09.531Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T18:31:09.535Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T18:31:09.535Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T18:31:09.535Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T18:33:09.196Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T18:33:09.200Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T18:33:09.200Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T18:33:09.200Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T18:36:47.204Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T18:36:47.662Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T18:36:47.666Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T18:36:47.666Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T18:36:47.666Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T18:36:58.270Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T18:36:58.274Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T18:36:58.274Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T18:36:58.274Z"}
+{"level":"info","message":"🎨 Generating premium landing: \"SaaS for AI writing tool...\"","timestamp":"2025-12-13T18:52:47.340Z"}
+{"level":"info","message":"✅ OpenAI GPT-4 ready","timestamp":"2025-12-13T18:52:47.341Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T18:53:25.579Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T18:53:25.584Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T18:53:25.584Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T18:53:25.584Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T18:54:11.333Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T18:54:11.923Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T18:54:11.928Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T18:54:11.928Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T18:54:11.928Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T18:54:21.949Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T18:54:21.953Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T18:54:21.953Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T18:54:21.954Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T18:55:12.992Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T18:55:13.481Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T18:55:13.486Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T18:55:13.487Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T18:55:13.487Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T18:55:23.979Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T18:55:23.983Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T18:55:23.983Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T18:55:23.983Z"}
+{"level":"info","message":"🎨 Generating landing: \"SaaS for AI writing tool...\"","timestamp":"2025-12-13T18:56:30.824Z"}
+{"level":"info","message":"✅ OpenAI GPT-4 ready","timestamp":"2025-12-13T18:56:30.825Z"}
+{"level":"error","message":"❌ OpenAI error: 400 max_tokens is too large: 6000. This model supports at most 4096 completion tokens, whereas you provided 6000.","timestamp":"2025-12-13T18:56:32.911Z"}
+{"level":"info","message":"🔄 Trying Groq fallback...","timestamp":"2025-12-13T18:56:32.911Z"}
+{"level":"info","message":"✅ Groq generated 15 chars","timestamp":"2025-12-13T18:57:09.058Z"}
+{"level":"info","message":"🎨 Generating landing: \"Fitness app landing page...\"","timestamp":"2025-12-13T19:00:42.092Z"}
+{"level":"error","message":"❌ OpenAI error: 400 max_tokens is too large: 6000. This model supports at most 4096 completion tokens, whereas you provided 6000.","timestamp":"2025-12-13T19:00:43.617Z"}
+{"level":"info","message":"🔄 Trying Groq fallback...","timestamp":"2025-12-13T19:00:43.617Z"}
+{"level":"info","message":"✅ Groq generated 24264 chars","timestamp":"2025-12-13T19:00:56.490Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T19:02:33.625Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T19:02:33.629Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T19:02:33.629Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T19:02:33.629Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T19:06:26.372Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T19:07:11.775Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-13T19:07:11.776Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-13T19:07:11.777Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-13T19:07:11.778Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T19:07:11.781Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T19:07:11.781Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T19:07:11.781Z"}
+{"level":"info","message":"Client connected: FcfXmTuSxP-yvqe6AAAB","timestamp":"2025-12-13T19:11:10.314Z"}
+{"level":"info","message":"Client disconnected: FcfXmTuSxP-yvqe6AAAB","timestamp":"2025-12-13T19:11:11.166Z"}
+{"level":"info","message":"🎨 Generating ecommerce: \"Fashion store...\"","timestamp":"2025-12-13T19:12:38.092Z"}
+{"level":"info","message":"✅ OpenAI GPT-4 ready","timestamp":"2025-12-13T19:12:38.093Z"}
+{"level":"error","message":"❌ OpenAI error: 400 max_tokens is too large: 6000. This model supports at most 4096 completion tokens, whereas you provided 6000.","timestamp":"2025-12-13T19:12:39.775Z"}
+{"level":"info","message":"🔄 Trying Groq fallback...","timestamp":"2025-12-13T19:12:39.775Z"}
+{"level":"info","message":"✅ Groq generated 12532 chars","timestamp":"2025-12-13T19:12:49.092Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T19:17:16.195Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T19:17:16.767Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-13T19:17:16.768Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-13T19:17:16.768Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-13T19:17:16.768Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T19:17:16.771Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T19:17:16.771Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T19:17:16.772Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T19:17:26.743Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-13T19:17:26.744Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-13T19:17:26.745Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-13T19:17:26.745Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T19:17:26.747Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T19:17:26.747Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T19:17:26.748Z"}
+{"level":"info","message":"🎨 Generating saas: \"Email marketing dashboard...\"","timestamp":"2025-12-13T19:19:56.768Z"}
+{"level":"info","message":"✅ OpenAI GPT-4 ready","timestamp":"2025-12-13T19:19:56.769Z"}
+{"level":"error","message":"❌ OpenAI error: 400 max_tokens is too large: 6000. This model supports at most 4096 completion tokens, whereas you provided 6000.","timestamp":"2025-12-13T19:19:57.839Z"}
+{"level":"info","message":"🔄 Trying Groq fallback...","timestamp":"2025-12-13T19:19:57.839Z"}
+{"level":"info","message":"✅ Groq generated 10227 chars","timestamp":"2025-12-13T19:20:04.966Z"}
+{"level":"info","message":"🎨 Generating saas: \"make it fully functional...\"","timestamp":"2025-12-13T19:20:54.304Z"}
+{"level":"error","message":"❌ OpenAI error: 400 max_tokens is too large: 6000. This model supports at most 4096 completion tokens, whereas you provided 6000.","timestamp":"2025-12-13T19:20:57.940Z"}
+{"level":"info","message":"🔄 Trying Groq fallback...","timestamp":"2025-12-13T19:20:57.940Z"}
+{"level":"info","message":"✅ Groq generated 13582 chars","timestamp":"2025-12-13T19:21:07.062Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T19:23:03.085Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T19:23:03.708Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-13T19:23:03.710Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-13T19:23:03.710Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-13T19:23:03.710Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T19:23:03.713Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T19:23:03.714Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T19:23:03.714Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T19:23:12.843Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-13T19:23:12.844Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-13T19:23:12.845Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-13T19:23:12.845Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T19:23:12.847Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T19:23:12.847Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T19:23:12.847Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T19:32:53.684Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T19:33:00.773Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-13T19:33:00.775Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-13T19:33:00.775Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-13T19:33:00.776Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T19:33:00.779Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T19:33:00.779Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T19:33:00.779Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T19:50:57.755Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T19:50:58.494Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-13T19:50:58.496Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-13T19:50:58.497Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-13T19:50:58.497Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T19:50:58.500Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T19:50:58.501Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T19:50:58.501Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-13T19:52:04.357Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-13T19:52:04.937Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-13T19:52:04.939Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-13T19:52:04.939Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-13T19:52:04.939Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-13T19:52:04.942Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-13T19:52:04.943Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-13T19:52:04.943Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-14T09:01:22.287Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-14T09:01:22.288Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-14T09:01:22.289Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-14T09:01:22.289Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-14T09:01:22.292Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-14T09:01:22.293Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-14T09:01:22.293Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-14T09:12:35.343Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-14T09:12:35.780Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-14T09:12:35.782Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-14T09:12:35.782Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-14T09:12:35.782Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-14T09:12:35.785Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-14T09:12:35.785Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-14T09:12:35.785Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-14T09:12:47.061Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-14T09:12:47.331Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-14T09:12:47.332Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-14T09:12:47.332Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-14T09:12:47.332Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-14T09:12:47.335Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-14T09:12:47.336Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-14T09:12:47.336Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-14T09:14:04.667Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-14T09:14:05.088Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-14T09:14:05.089Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-14T09:14:05.089Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-14T09:14:05.089Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-14T09:14:05.092Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-14T09:14:05.093Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-14T09:14:05.093Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-14T09:15:05.485Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-14T09:15:05.758Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-14T09:15:05.760Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-14T09:15:05.760Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-14T09:15:05.760Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-14T09:15:05.763Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-14T09:15:05.763Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-14T09:15:05.763Z"}
+{"level":"info","message":"🎨 Generating dashboard: \"Analytics dashboard with charts...\"","timestamp":"2025-12-14T09:17:03.505Z"}
+{"level":"info","message":"✅ OpenAI GPT-4 ready","timestamp":"2025-12-14T09:17:03.507Z"}
+{"level":"error","message":"❌ OpenAI error: 400 max_tokens is too large: 6000. This model supports at most 4096 completion tokens, whereas you provided 6000.","timestamp":"2025-12-14T09:17:05.421Z"}
+{"level":"info","message":"🔄 Trying Groq fallback...","timestamp":"2025-12-14T09:17:05.422Z"}
+{"level":"info","message":"✅ Groq generated 16307 chars","timestamp":"2025-12-14T09:17:16.579Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-14T09:26:01.237Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-14T09:26:01.664Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-14T09:26:01.665Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-14T09:26:01.665Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-14T09:26:01.665Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-14T09:26:01.669Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-14T09:26:01.669Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-14T09:26:01.669Z"}
+{"level":"info","message":"SIGTERM signal received: closing HTTP server","timestamp":"2025-12-14T09:26:31.973Z"}
+{"level":"info","message":"OpenAI API Key: ✅ Set (sk-proj-uO...)","timestamp":"2025-12-14T09:26:32.412Z"}
+{"level":"info","message":"Groq API Key: ✅ Set","timestamp":"2025-12-14T09:26:32.414Z"}
+{"level":"info","message":"Image APIs: Stability ✅ | HuggingFace ✅","timestamp":"2025-12-14T09:26:32.414Z"}
+{"level":"info","message":"Voice APIs: ElevenLabs ✅ | Deepgram ✅","timestamp":"2025-12-14T09:26:32.414Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-12-14T09:26:32.417Z"}
+{"level":"info","message":"📝 Environment: development","timestamp":"2025-12-14T09:26:32.417Z"}
+{"level":"info","message":"🌐 CORS enabled for: http://localhost:5173","timestamp":"2025-12-14T09:26:32.417Z"}

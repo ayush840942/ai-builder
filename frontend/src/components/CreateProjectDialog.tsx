@@ -28,6 +28,8 @@ export function CreateProjectDialog({ children, defaultType }: CreateProjectDial
     const [name, setName] = useState('');
     const [description, setDescription] = useState(defaultType ? `AI ${defaultType} project` : '');
 
+    const [error, setError] = useState('');
+
     const createMutation = useMutation({
         mutationFn: projectsAPI.create,
         onSuccess: (response) => {
@@ -35,18 +37,23 @@ export function CreateProjectDialog({ children, defaultType }: CreateProjectDial
             setOpen(false);
             setName('');
             setDescription('');
+            setError('');
             navigate(`/editor/${response.data.data.id}`);
         },
+        onError: (err: any) => {
+            setError(err.response?.data?.error || 'Failed to create project');
+        }
     });
 
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
         if (!name.trim()) return;
+        setError('');
         createMutation.mutate({ name, description });
     };
 
     return (
-        <Dialog open={open} onOpenChange={setOpen}>
+        <Dialog open={open} onOpenChange={(val) => { setOpen(val); if (!val) setError(''); }}>
             <DialogTrigger asChild>
                 {children || (
                     <Button className="gap-2 bg-gradient-to-r from-violet-600 to-fuchsia-600 hover:from-violet-700 hover:to-fuchsia-700 shadow-lg shadow-violet-500/20">
@@ -96,6 +103,12 @@ export function CreateProjectDialog({ children, defaultType }: CreateProjectDial
                                 className="h-12 bg-white/5 border-white/10 text-white placeholder:text-gray-600 focus:border-violet-500 focus:ring-violet-500/20 rounded-xl"
                             />
                         </div>
+
+                        {error && (
+                            <div className="p-3 rounded-lg bg-red-500/10 border border-red-500/20 text-sm text-red-400">
+                                {error}
+                            </div>
+                        )}
                     </div>
 
                     <DialogFooter>

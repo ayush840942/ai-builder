@@ -140,13 +140,15 @@ ${designSystem}
 
 CRITICAL RULES:
 1. Return ONLY valid TypeScript React code - NO markdown, NO explanations
-2. ALWAYS start with: import React, { useState, useEffect } from 'react';
-3. Then: export default function App() { ... }
-4. TailwindCSS ONLY for styling
-5. Icons as inline SVG with currentColor
-6. Mobile-first responsive design
-7. Include micro-interactions and animations
-8. Make it look like a $10,000 design
+2. NEVER mutate props or state directly. Always create copies first (e.g. [...arr] or {...obj}).
+3. Use standard HTML tags (div, button, input) styled with Tailwind classes.
+4. ALWAYS start with: import React, { useState, useEffect } from 'react';
+5. Then: export default function App() { ... }
+6. TailwindCSS ONLY for styling
+7. Icons as inline SVG with currentColor
+8. Mobile-first responsive design
+9. Include micro-interactions and animations
+10. Make it look like a $10,000 design
 
 IMAGES - USE REAL IMAGES FROM UNSPLASH:
 - For hero images: https://images.unsplash.com/photo-[ID]?w=1600&h=900&fit=crop
@@ -491,10 +493,10 @@ Include realistic data placeholders and all interactions.`
       const completion = await openai.chat.completions.create({
          model: 'gpt-4-turbo-preview',
          messages: [
-            { role: 'system', content: 'Improve the code. Return ONLY code.' },
+            { role: 'system', content: 'You are an expert React developer. Improve the code based on instructions. CRITICAL: Return ONLY valid TypeScript React code. NO markdown. NEVER mutate props or state directly. Use setState or copies. Fix "Attempted to assign to readonly property" errors by creating copies of objects before modifying.' },
             { role: 'user', content: `Instructions: ${instructions}\n\nCode:\n${code}` }
          ],
-         temperature: 0.7,
+         temperature: 0.1, // Lower temperature for more precise code fixes
          max_tokens: 8000
       });
 
